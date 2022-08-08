@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+    
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+.footer a {
+    font-weight: bold;
+    align-items: center;
+    text-decoration: none;
+}
